@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+}
+
+
+
+    .jumbotron{
+
+        background: url(../images/banner2.jpg);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        min-height: 500px;
+     
+     }
+
+     .btn-outline-primary {
+        background-color: #FFF;
+        color: #833ddc;
+        border-color: #833ddc;
+        border-radius: 0.5rem;
+    }
+    .btn-outline-primary:hover    {
+        background-color: #833ddc;
+        color: #fff !important;
+    }
+
